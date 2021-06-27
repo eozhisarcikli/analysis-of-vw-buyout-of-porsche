@@ -1,7 +1,7 @@
 # Analysis of Volkswagen Buyout of Porsche
 
 I'll try to analyze the data leading up to the Volkswagen buyout of Porsche. I'll compare what models describe the stock best before and after each announcement 
-and comment on the results. Additionally, I've defined another crucial date in the history of Volkswagen, so-called "dieselgate scandal" in September 2015.
+and comment on the results.
 
 I am going to directly get the data from Yahoo!Finance instead of importing a fixed data set. The ticker names for them are "VOW3.DE" and "PAH3.DE". 
 Of course, the ".DE" at the end indicates that this data was recorded from the German stock market. As you know, there are other markets where these stocks 
